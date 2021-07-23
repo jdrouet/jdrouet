@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-My name is Jeremie Drouet, a french 🥖 developper.
+My name is Jeremie Drouet, a french 🥖 developer.
 
 I'm a 🦀 software engineer @datadog working on [Vector](https://github.com/timberio/vector/).
 
@@ -14,7 +14,7 @@ I'm a 🦀 software engineer @datadog working on [Vector](https://github.com/tim
 
 Those projects are motivated by the lack of privacy 👀 or the carbon footprint of the existing alternatives 🌍.
 
-With the current climate changes, it's the developper's duty to build, liteweight and energy efficient softwares.
+With the current climate changes, it's the developer's duty to build lightweight and energy efficient softwares.
 
 Rust is really lightweight compared to NodeJS (look at [mrml](https://github.com/jdrouet/mrml) compared to [mjml](https://mjml.io)), Python or Java (look at the requirements from [Keycloak](https://github.com/keycloak/keycloak)).
 
