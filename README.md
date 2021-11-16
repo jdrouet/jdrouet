@@ -8,6 +8,7 @@ I'm a 🦀 software engineer @datadog working on [Vector](https://github.com/tim
 
 ## What I'm working on, on my free time?
 
+- [docker-activity](https://github.com/jdrouet/docker-activity): a tool to monitor the energy consumption of your docker containers.
 - [mrml](https://github.com/jdrouet/mrml), [catapulte](https://github.com/jdrouet/catapulte) and [jolimail](https://github.com/jdrouet/jolimail): a transactionnal email suite, not to rely on american paid services.
 - [codebench](https://www.codebench.cloud/): a platform to keep track of your benchmarks (used by [mrml](https://github.com/jdrouet/mrml)).
 - [tekitoi](https://github.com/jdrouet/tekitoi): an lightweight, opensource and simple to use alternative to [Auth0](https://auth0.com/) and [Keycloak](https://github.com/keycloak/keycloak).
