@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Abridge - config</title>
+	<subtitle>Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS.</subtitle>
+	<link href="https://abridge.netlify.app/tags/config/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://abridge.netlify.app"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-05-17T00:00:00+00:00</updated>
+	<id>https://abridge.netlify.app/tags/config/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Abridge Zola Theme</title>
+		<published>2022-05-17T00:00:00+00:00</published>
+		<updated>2022-05-17T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://abridge.netlify.app/overview-abridge/" type="text/html"/>
+		<id>https://abridge.netlify.app/overview-abridge/</id>
+		<content type="html">&lt;p&gt;Abridge is a fast and lightweight Zola theme using semantic html, only ~6kb css before svg icons and syntax highlighting, no mandatory JS, and perfect &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.dev&#x2F;measure&#x2F;?url=https%3A%2F%2Fabridge.netlify.app&quot;&gt;Lighthouse&lt;&#x2F;a&gt;, &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;yellowlab.tools&#x2F;&quot;&gt;YellowLabTools&lt;&#x2F;a&gt;, and &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;observatory.mozilla.org&#x2F;analyze&#x2F;abridge.netlify.app&quot;&gt;Observatory&lt;&#x2F;a&gt; scores.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;For quick setup copy the config.toml from the abridge theme into the root of your zola site, this will give you a base configuration with all config values used.&lt;&#x2F;p&gt;
+&lt;p&gt;You can then edit or comment out the values in this file as necessary.&lt;&#x2F;p&gt;
+&lt;p&gt;You should also uncomment out the line #theme = &amp;quot;abridge&amp;quot; in your root zola config.toml file. This tells your root zola site to use the abridge theme in the themes folder.&lt;&#x2F;p&gt;
+&lt;p&gt;You can set the number of items that appear on the home page by editing &lt;code&gt;themes\abridge\content\_index.md&lt;&#x2F;code&gt; file and adjusting &lt;code&gt;paginate_by = 5&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You can set the overal page width by editing &lt;code&gt;themes\abridge\sass\_variables.scss&lt;&#x2F;code&gt; file, and adjusting these two lines:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;scss&quot; class=&quot;language-scss z-code&quot;&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;z-source z-scss&quot;&gt;&lt;span class=&quot;z-variable z-declaration z-sass&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-variable z-sass&quot;&gt;$&lt;&#x2F;span&gt;mw&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-key-value z-css&quot;&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-property-value z-css&quot;&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-css&quot;&gt;50&lt;span class=&quot;z-keyword z-other z-unit z-css&quot;&gt;%&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-other z-sass&quot;&gt;!default&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rule z-css&quot;&gt;;&lt;&#x2F;span&gt;&lt;span class=&quot;z-comment z-line z-double-slash z-sass&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-css&quot;&gt;&#x2F;&#x2F;&lt;&#x2F;span&gt; max-width
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-declaration z-sass&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-variable z-sass&quot;&gt;$&lt;&#x2F;span&gt;mb&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-key-value z-css&quot;&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-property-value z-css&quot;&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-css&quot;&gt;1200&lt;span class=&quot;z-keyword z-other z-unit z-css&quot;&gt;px&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-other z-sass&quot;&gt;!default&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rule z-css&quot;&gt;;&lt;&#x2F;span&gt;&lt;span class=&quot;z-comment z-line z-double-slash z-sass&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-comment z-css&quot;&gt;&#x2F;&#x2F;&lt;&#x2F;span&gt; value at which to switch from fluid layout to using max-width
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+	</entry>
+</feed>
