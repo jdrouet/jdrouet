@@ -4,7 +4,7 @@
 
 My name is Jeremie Drouet, a french 🥖 developer.
 
-I'm a 🦀 software engineer @datadog working on [Vector](https://github.com/timberio/vector/).
+I'm a senior 🦀 software engineer.
 
 ## What I'm working on, on my free time?
 
