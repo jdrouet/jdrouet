@@ -9,7 +9,7 @@ I'm a senior 🦀 software engineer.
 ## What I'm working on, on my free time?
 
 - [mrml](https://github.com/jdrouet/mrml): a Rust 🦀 rewrite of [mjml](https://mjml.io/) that boosts performances.
-- [git-metrics](https://github.com/jdrouet/git-metric): a git extension to store metrics related to your project, written in Rust 🦀.
+- [git-metrics](https://github.com/jdrouet/git-metrics): a git extension to store metrics related to your project, written in Rust 🦀.
 
 Those projects are motivated by the lack of privacy 👀 or the carbon footprint of the existing alternatives 🌍.
 
