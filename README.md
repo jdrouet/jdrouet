@@ -4,7 +4,9 @@
 
 My name is Jeremie Drouet, a french 🥖 developer.
 
-I'm a senior 🦀 software engineer.
+I'm a senior Rust 🦀 software engineer and I'm available for hire.
+
+If you're interested in hiring me, you can contact me [here](mailto:hire@jdrouet.fr).
 
 ## What I'm working on, on my free time?
 
